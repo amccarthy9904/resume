@@ -1,40 +1,42 @@
 JD:
 
-What is diff betweeen software development engineer and regular SE?
-
+team size
+20 - 30
+a few projects between them
 
 
 Is this for your team only?
-    yes
 
 What technoliogies will I be working with?
 
 Languages?
 
-Frameworks?
-    React
-    AWS support UI 
-    Some Python
-    AWS APIS
-    inheriting java endpoints
+Frameworks? Django / Javasctript
 
-Software Release Process
-    Use Amazon tooling gamma beta prod
-    release very frequent most of the time
-    for new product 1 every 2 weeks
+DevOps Setup
+a priority 
 
 Onboarding Process:
-    90 day onboadring Plan
-    shadowing
-    setup environment
-    speak with team members
     
-
-Pipelines?
 
 Docker?
 
 Databases?
 
+Code review process
+yes
+
+notion for project management
 
 
+clearcompany
+
+
+
+team size:
+20
+3 managerts for the 20
+2 devops
+
+
+jira**
